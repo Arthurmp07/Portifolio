@@ -1,0 +1,8 @@
+# Dados gerados em runtime
+storage/messages/*.jsonl
+storage/cache/*.json
+storage/ratelimit/*.json
+
+# Credenciais e logs de e-mail
+config/mail.local.php
+storage/mail-errors.log
