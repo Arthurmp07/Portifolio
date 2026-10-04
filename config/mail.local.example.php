@@ -9,5 +9,5 @@
  *   3. Crie uma senha (ex.: "Portfólio") e cole abaixo, sem espaços.
  */
 return [
-    'password' => 'mxro bonm geoe wwga',
+    'password' => 'xxxxxxxxxxx',
 ];
